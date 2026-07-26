@@ -17,3 +17,7 @@ git commit -m "why-you-commtied"
 git push -u origin main
 ```
 **naming convention: use small case with Hyphons(-). No space**
+
+```
+git add . ; git commit -m "some massage"; git push -u origin main
+```
