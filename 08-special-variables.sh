@@ -3,3 +3,4 @@
 echo "ALL variables: $@"
 echo " Number of variables pass: $#"
 echo "Script Name: $0"
+echo "Current working directory: $PWD"
