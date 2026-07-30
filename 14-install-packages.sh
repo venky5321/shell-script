@@ -9,4 +9,7 @@ else
     echo "you are super user."    
 fi
 
-echo "All packages: $@"
+for i in $@
+do
+   echo "All packages: $i"
+done
