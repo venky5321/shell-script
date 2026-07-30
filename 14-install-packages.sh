@@ -12,4 +12,5 @@ fi
 for i in $@
 do
    echo "All packages: $i"
+   dnf list installed $i
 done
